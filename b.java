@@ -16,7 +16,7 @@ public class b
     public b()
     {
         // initialise instance variables
-        x = 0;
+        x = 2;
     }
 
     /**
